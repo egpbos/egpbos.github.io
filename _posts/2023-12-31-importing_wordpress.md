@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moving to Jekyll part 2: importing Wordpress content"
+title:  "Moving to Jekyll part 2: importing Wordpress content and going live"
 date:   2023-12-31
 categories: blog tech
 ---
@@ -40,3 +40,7 @@ To keep things clean, you might want to remove empty directories, which the `wp-
 The default Jekyll site only gives you a blog frontpage that shows a list of posts. I want to add some content as well, as I had on my previous website. This is as easy as adding content to `index.markdown`. For now, I'm just dumping both my English and Dutch texts and my portrait there. Can always polish later.
 
 The last remaining pieces of content from my previous website are my CV and publications pages; sort of my portfolio. I'm just going to dump all that stuff in the about page that also conveniently was added in the default Jekyll site. I can't seem to get the thumbnail image widths adjusted, so it'll be messy.
+
+---
+
+Having imported everything, the final steps to get the site online are described well in the [GitHub documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll). Done, here we are!

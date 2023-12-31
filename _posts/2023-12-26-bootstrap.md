@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moving to Jekyll"
+title:  "Moving to Jekyll part 1: Getting to know Jekyll"
 date:   2023-12-27 13:45:25 +0100
 categories: blog tech
 ---
