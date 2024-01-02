@@ -26,3 +26,5 @@ Unfortunately, I cannot seem to get it in by simply overriding the `head` includ
 *Edit 5 minutes later:* nope, something else must be wrong, because as you can see, the favicon is still not being picked up... at least on the home page... But wait! It is in fact there on this very post! Did I add it to the wrong include? Is `head` not included in all pages? Nope, it does seem to be everywhere... Then what? The other older posts also don't have it, only this favicon page...
 
 Ok, well, at least something is working. Just gotta find the gremlins later.
+
+*Edit another 5 minutes later:* ah, it just seems to be a browser cache issue. Favicon up and running!
