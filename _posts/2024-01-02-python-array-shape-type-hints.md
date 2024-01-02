@@ -33,6 +33,6 @@ Despite this first slight but not unexpected disappointment, the Numpy page did 
 
 This PEP is literally made for the exact usecase we're talking about here!
 
-However, it only provides the **very** basic constructs necessary for making this dream a reality. With this, someone could define a type of array with explicitly named dimensions and even with explicitly sized dimensions, i.e. a fully specified shape. But did someone do this already?
+However, it only provides the **very** basic constructs necessary for making this dream a reality. With this, someone could define a type of array with explicitly named dimensions and even with explicitly sized dimensions, i.e. a fully specified shape. But did someone do this already? And if not, what would it take? Probably defining the type alone is not enough for `mypy` to be able to check for its usage? For editors to parse it and provide useful hints while editing? Or is it? This is new territory for me.
 
 I'll be looking into this some more, because it's sure as hell promising! The pain that a type like this could prevent... Autocompletion and helpful hints inside my editor powered by this, oh man, I can't wait.
