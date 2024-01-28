@@ -17,6 +17,9 @@ plugins:
 
 remote_theme: jekyll/minima
 
+header_pages:
+  - about.markdown
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   skin: classic
