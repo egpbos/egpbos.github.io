@@ -40,13 +40,13 @@ Om deze onderwerpen beter te begrijpen werk ik aan Bayesiaanse modellen om waarn
 
 🇺🇸
 
-My curriculum vitae: [Download PDF CV](/wp-content/uploads/2014/02/CV_20140211.pdf). Also, have a look at my [LinkedIn profile](http://www.linkedin.com/in/egpbos).
+My curriculum vitae: [Download PDF CV](/files/CV_Patrick_Bos_20250324.pdf). Also, have a look at my [LinkedIn profile](http://www.linkedin.com/in/egpbos).
 
 Please, contact me if you are interested in further details.
 
 🇳🇱
 
-M’n curriculum vitae (in het Engels): [Download PDF CV](/wp-content/uploads/2014/02/CV_20140211.pdf). Neem ook eens een kijkje op m’n [LinkedIn profiel](http://www.linkedin.com/in/egpbos).
+M’n curriculum vitae (in het Engels): [Download PDF CV](/files/CV_Patrick_Bos_20250324.pdf). Neem ook eens een kijkje op m’n [LinkedIn profiel](http://www.linkedin.com/in/egpbos).
 
 Neem gerust contact met me op voor meer informatie.
 
