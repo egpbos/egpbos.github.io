@@ -17,15 +17,24 @@ plugins:
 
 remote_theme: jekyll/minima
 
-header_pages:
-  - about.markdown
-
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
+  nav_pages:
+    - about.markdown
   skin: classic
   social_links:
-  - { platform: github,         user_url: "https://github.com/egpbos" }
-  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=3Le2IcUAAAAJ" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/egpbos" }
-  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1199693/egpbos" }
-  - { platform: x,              user_url: "https://x.com/egpbos" }
+  - title: GitHub profile
+    icon: github
+    url: "https://github.com/egpbos"
+  - title: Google Scholar profile
+    icon: google_scholar
+    url: "https://scholar.google.com/citations?user=3Le2IcUAAAAJ"
+  - title: LinkedIn profile
+    icon: linkedin
+    url: "https://www.linkedin.com/in/egpbos"
+  - title: StackOverflow profile
+    icon: stackoverflow
+    url: "https://stackoverflow.com/users/1199693/egpbos"
+  - title: "X profile"
+    icon: x
+    url: "https://x.com/egpbos"
