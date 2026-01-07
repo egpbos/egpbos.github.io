@@ -1,19 +1,32 @@
 ---
 layout: home
+title: Patrick Bos - Research Software Engineering Leader
 ---
 
-🇺🇸
+<div class="hero">
+  <h1>Patrick Bos</h1>
+  <h2>Research Software Engineering Leader</h2>
+  <p>I help research organizations build better software—combining 20 years of hands-on engineering with strategic leadership.</p>
+  
+  <div class="cta-buttons">
+    <a href="/services/" class="button primary">View Services</a>
+    <a href="/portfolio/" class="button secondary">See Portfolio</a>
+    <a href="/contact/" class="button secondary">Get in Touch</a>
+  </div>
+</div>
 
-Hi, I’m Patrick Bos, **Technology Lead** at the [Netherlands eScience Center](https://www.esciencecenter.nl/team/dr-patrick-bos/), and **freelance (digital) scientist, coder and consultant**.
-I have a background in **astrophysics** and more than a decade of experience as a **Research Software Engineer**.
-Welcome to my humble digital abode!
+## Recent Highlights
 
-Below you will find my unedited writings on things I know about, things I'm trying to make sense of or things that for some other reason I feel like typing about.
+<!-- TODO: add featured projects -->
 
-🇳🇱
+## What I Do
 
-Hallo, ik ben Patrick Bos, **Technology Lead** bij het [Netherlands eScience Center](https://www.esciencecenter.nl/team/dr-patrick-bos/), en daarnaast **freelance (digitale) wetenschapper, codeur en adviseur**.
-Ik heb een achtergrond in de **astrofysica** en meer dan 10 jaar ervaring als **Research Software Engineer**.
-Welkom in mijn nederig digitaal stulpje!
+- Technical leadership & strategy
+- Research software engineering
+- Performance optimization & debugging
+- Coaching & advisory
 
-Hieronder vindt u mijn ongeredigeerde schrijfsels over dingen waar ik iets van weet, dingen die ik probeer te begrijpen of dingen waar ik om andere willekeurige redenen zin had om over te schrijven.
+## Let's Work Together
+
+Looking for technical leadership or need to solve complex software challenges?  
+[Send Email](mailto:egpbos@gmail.com) · [LinkedIn](https://www.linkedin.com/in/egpbos)

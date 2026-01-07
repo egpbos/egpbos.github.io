@@ -6,11 +6,11 @@ permalink: /about/
 
 🇺🇸
 
-*Note: all this is pretty old, I wrote it 5 years ago or so. I still do freelance work next to my main job as a Technology Lead at the Netherlands eScience Center. Consider the story below the beginning of my autobiography ;)*
+*Note: some of this may be outdated. I'm a Research Software Engineering Leader and available for technical leadership roles and consulting.*
 
 Hi, I’m Patrick Bos, **freelance data scientist, consultant** and **eScience research engineer** with a background in **astrophysics**.
 
-I work at the Netherlands eScience Center in Amsterdam. Together with scientists, I develop methods to bring the scientists’ research one step further. We apply the newest techniques from data processing and computer technology to reach this goal.
+I previously worked as Technology Lead at the Netherlands eScience Center in Amsterdam. Together with scientists, I develop methods to bring the scientists’ research one step further. We apply the newest techniques from data processing and computer technology to reach this goal.
 
 I work on *digital humanities* projects about media, politics, art and language. I’ve applied many techniques, including text mining, linked data, point cloud analysis, as well as machine learning and natural language processing. I also work with *particle physicists*. They do calculations of models of the smallest particles. These models have to be compared to data from experiments. Because the models are highly complex and a lot of data comes from the experiments the calculations take a long time to complete. It is my task to speed this up. You can read more about my projects at [my Netherlands eScience Center page](http://www.esciencecenter.nl/profile/patrick-bos "my NLeSC page").
 
@@ -26,7 +26,7 @@ To gain a better understanding of the Universe, I build Bayesian models to bring
 
 Hallo, ik ben Patrick Bos, **freelance data scientist, adviseur** en **eScience research engineer** met een achtergrond in de **astrofysica**.
 
-Ik werk aan het Netherlands eScience Center in Amsterdam. Daar ontwikkel ik samen met wetenschappers methoden om hun onderzoek een stapje verder te brengen. Dat doen we door de nieuwste technieken uit de dataverwerking en computertechnologie toe te passen.
+Ik heb eerder gewerkt als Technology Lead bij het Netherlands eScience Center in Amsterdam. Daar ontwikkel ik samen met wetenschappers methoden om hun onderzoek een stapje verder te brengen. Dat doen we door de nieuwste technieken uit de dataverwerking en computertechnologie toe te passen.
 
 Ik werk in *digital humanities* projecten over media, politiek, kunst en taal. Ik heb daarbij vele technieken gebruikt, zoals text mining, linked data, 3D puntenwolken, machine learning en natural language processing. Ik werk ook met *deeltjesfysici*. Zij rekenen aan modellen van de allerkleinste deeltjes. De modellen moeten worden vergeleken met de uitkomsten van experimenten. Omdat de modellen erg ingewikkeld zijn en er veel data uit de experimenten komt duren die berekeningen erg lang. Aan mij de taak dit sneller te maken. Op [mijn Netherlands eScience Center pagina](http://www.esciencecenter.nl/profile/patrick-bos "mijn NLeSC pagina") leest u meer over mijn projecten.
 

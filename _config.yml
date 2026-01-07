@@ -1,10 +1,8 @@
 title: egpBos.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  Evert Gerardus Patrick Bos' website - 
-  incomplete, unoriginal, unsubstantiated, without necessary nuance -
-  subpar standards, for subpar readers like me and you!
+description: "Research Software Engineering Leader | Technical Strategy | Open Source"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egpbos.nl" # the base hostname & protocol for your site, e.g. http://example.com
+email: "egpbos@gmail.com"
 # twitter_username: egpbos
 # github_username:  egpbos
 # linkedin_username: egpbos
@@ -21,6 +19,9 @@ remote_theme: jekyll/minima
 minima:
   nav_pages:
     - about.markdown
+    - services.markdown
+    - portfolio.markdown
+    - contact.markdown
   skin: classic
   social_links:
   - title: GitHub profile
