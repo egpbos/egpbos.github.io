@@ -15,5 +15,11 @@ Local setup
 4. Install dependencies: `bundle install`
 5. Build or serve locally: `bundle exec jekyll build` or `bundle exec jekyll serve`
 
+Docker (if you don't want to install Ruby locally)
+
+- Use the included Makefile targets which run a Ruby 3.2 container and build the site:
+  - `make build` — build the site in Docker
+  - `make serve` — serve the site locally on port 4000 using Docker
+
 CI
 A GitHub Actions workflow is included at `.github/workflows/jekyll-build.yml` that runs `bundle install` and `bundle exec jekyll build` using Ruby 3.2.2.
