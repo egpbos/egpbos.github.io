@@ -2,9 +2,8 @@ name: Jekyll build
 
 on:
   push:
-    branches: [ main, 'redesign/**' ]
-  pull_request:
     branches: [ main ]
+  pull_request:
 
 jobs:
   build:
