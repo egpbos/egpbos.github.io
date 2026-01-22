@@ -1,0 +1,27 @@
+name: Jekyll build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.6'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle config set path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
+      - name: Build site
+        run: bundle exec jekyll build --verbose

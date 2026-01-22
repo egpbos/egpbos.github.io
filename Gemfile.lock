@@ -282,6 +282,7 @@ PLATFORMS
   arm-linux-gnueabihf
   arm-linux-musleabihf
   arm64-darwin
+  ruby
   x86-linux
   x86-linux-android
   x86-linux-gnu
@@ -302,5 +303,8 @@ DEPENDENCIES
   wdm (~> 0.1.1)
   webrick (~> 1.8)
 
+RUBY VERSION
+  ruby 3.3.6
+
 BUNDLED WITH
-   2.5.3
+   2.4.10

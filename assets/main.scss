@@ -1,0 +1,19 @@
+---
+---
+/* Simple hero styles for the new homepage */
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  margin: -2rem -1rem 2rem;
+  border-radius: 6px;
+}
+
+.hero h1 { font-size: 2.25rem; margin-bottom: 0.25rem; }
+.hero h2 { font-size: 1.25rem; font-weight: 300; margin-bottom: 1rem; }
+
+.cta-buttons { margin-top: 0.75rem; }
+.cta-buttons .button { display:inline-block; padding:0.6rem 1rem; margin:0.25rem; border-radius:4px; text-decoration:none; }
+.cta-buttons .button.primary { background:white; color:#667eea; }
+.cta-buttons .button.secondary { border:2px solid white; color:white; background:transparent; }
