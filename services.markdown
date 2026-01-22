@@ -6,7 +6,7 @@ permalink: /services/
 
 # How I Can Help
 
-I help research organizations and projects ship reliable, maintainable, and performant software. Below are my primary service areas — each focused on delivering measurable outcomes.
+I help research organizations and projects ship reliable, maintainable, and performant software. Below are my primary service areas - each focused on delivering measurable outcomes.
 
 ## Technical Leadership & Strategy
 - Build and lead research software engineering teams

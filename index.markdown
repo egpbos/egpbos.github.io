@@ -6,7 +6,7 @@ title: Patrick Bos - Research Software Engineering Leader
 <div class="hero">
   <h1>Patrick Bos</h1>
   <h2>Research Software Engineering Leader</h2>
-  <p>I help research organizations build better software—combining 20 years of hands-on engineering with strategic leadership.</p>
+  <p>I help research organizations build better software - combining 20 years of hands-on engineering with strategic leadership.</p>
   
   <div class="cta-buttons">
     <a href="/services/" class="button primary">View Services</a>
