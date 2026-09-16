@@ -6,8 +6,6 @@ permalink: /about/
 
 🇺🇸
 
-*Note: all this is pretty old, I wrote it 5 years ago or so. I still do freelance work next to my main job as a Technology Lead at the Netherlands eScience Center. Consider the story below the beginning of my autobiography ;)*
-
 Hi, I’m Patrick Bos, **freelance data scientist, consultant** and **senior research software engineer (RSE)** with a background in **astrophysics**.
 
 I have been in research software engineering (RSEing) full-time since 2014, first for 12 years at the Netherlands eScience Center (NLeSC) in Amsterdam and now at the University of Groningen. As an RSE, I team up with researchers to apply and develop digital technology to answer research questions.
