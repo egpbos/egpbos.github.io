@@ -31,7 +31,7 @@ list_title: Writing
 
 **Research software engineer** · freelance consultant & developer · PhD astrophysics
 
-I help research groups and companies make scientific code faster, more reliable and easier to maintain, from exoplanet simulations to the ALMA pipeline.
+I help research groups and organizations make scientific code faster, more reliable and easier to maintain, from exoplanet simulations to the ALMA pipeline.
 
 [Email me](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [About](/about/) · [LinkedIn](https://www.linkedin.com/in/egpbos)
 
@@ -39,6 +39,6 @@ I help research groups and companies make scientific code faster, more reliable 
 
 **Onderzoekssoftware-ingenieur** · freelance adviseur & ontwikkelaar · PhD astrofysica
 
-Ik help onderzoeksgroepen en bedrijven wetenschappelijke code sneller, betrouwbaarder en makkelijker te onderhouden te maken, van exoplaneetsimulaties tot de ALMA-pipeline.
+Ik help onderzoeksgroepen en organisaties wetenschappelijke code sneller, betrouwbaarder en makkelijker te onderhouden te maken, van exoplaneetsimulaties tot de ALMA-pipeline.
 
 [E-mail mij](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Over mij](/about/) · [LinkedIn](https://www.linkedin.com/in/egpbos)
