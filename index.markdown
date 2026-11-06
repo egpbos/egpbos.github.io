@@ -6,7 +6,7 @@ image:
   path: /assets/og-image.jpg
   width: 1200
   height: 630
-  alt: Patrick Bos, research software engineer
+  alt: Patrick Bos
 ---
 
 <style>
