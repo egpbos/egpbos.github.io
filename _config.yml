@@ -1,8 +1,5 @@
 title: egpBos.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  Evert Gerardus Patrick Bos' website - 
-  incomplete, unoriginal, unsubstantiated, without necessary nuance -
-  subpar standards, for subpar readers like me and you!
+description: "Patrick Bos' website: research software, data science, and things I'm still figuring out."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egpbos.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: egpbos
@@ -20,6 +17,7 @@ remote_theme: jekyll/minima
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   nav_pages:
+    - blog.markdown
     - about.markdown
   skin: classic
   social_links:
@@ -27,14 +25,11 @@ minima:
     icon: github
     url: "https://github.com/egpbos"
   - title: Google Scholar profile
-    icon: google_scholar
+    icon: google-scholar
     url: "https://scholar.google.com/citations?user=3Le2IcUAAAAJ"
   - title: LinkedIn profile
     icon: linkedin
     url: "https://www.linkedin.com/in/egpbos"
-  - title: StackOverflow profile
-    icon: stackoverflow
+  - title: Stack Overflow profile
+    icon: stack-overflow
     url: "https://stackoverflow.com/users/1199693/egpbos"
-  - title: "X profile"
-    icon: x
-    url: "https://x.com/egpbos"

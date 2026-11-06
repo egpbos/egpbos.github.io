@@ -19,7 +19,7 @@ In my PhD years, I specialized in the *large scale structures of the universe* a
 
 In more recent years, I've gained an interest in the field of explainable AI (XAI), which with the boom of machine learning applications across all research domains has become more and more relevant. Together with former NLeSC colleagues, we developed DIANNA, an XAI method comparison tool built for researchers. We also developed our own method called [Distance Explainer](https://arxiv.org/abs/2505.15516), an evolution of RISE built for embedding models.
 
-![Patricks portret](/wp-content/uploads/2022/05/portret.jpg){: width="200"}
+![Patricks portret](/assets/portret-400.jpg){: width="200"}
 
 🇳🇱
 

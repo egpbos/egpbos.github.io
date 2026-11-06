@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Patrick Bos
 description: Research software engineer, freelance consultant and developer, and PhD astrophysicist.
 image:
@@ -7,7 +7,6 @@ image:
   width: 1200
   height: 630
   alt: Patrick Bos, research software engineer
-list_title: Writing
 ---
 
 <style>
@@ -25,15 +24,23 @@ list_title: Writing
       margin: 0 auto 1rem;
     }
   }
+  .post-header {
+    margin-bottom: 20px;
+  }
+  .post-content p {
+    margin-bottom: 10px;
+  }
 </style>
 
-![Portret van Patrick Bos](/wp-content/uploads/2022/05/portret.jpg){: .identity-photo}
+![Portret van Patrick Bos](/assets/portret-400.jpg){: .identity-photo}
 
 **Research software engineer** · freelance consultant & developer · PhD astrophysics
 
 I help research groups and organizations make scientific code faster, more reliable and easier to maintain, from exoplanet simulations to the ALMA pipeline.
 
-[Email me](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [About](/about/) · [LinkedIn](https://www.linkedin.com/in/egpbos)
+I'm also interested in developing and applying explainable AI (XAI) methods, especially for scientific machine learning.
+
+[Email me](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Blog](/blog/) · [About](/about/)
 
 🇳🇱
 
@@ -41,4 +48,6 @@ I help research groups and organizations make scientific code faster, more relia
 
 Ik help onderzoeksgroepen en organisaties wetenschappelijke code sneller, betrouwbaarder en makkelijker te onderhouden te maken, van exoplaneetsimulaties tot de ALMA-pipeline.
 
-[E-mail mij](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Over mij](/about/) · [LinkedIn](https://www.linkedin.com/in/egpbos)
+Ik heb daarnaast interesse in het ontwikkelen en toepassen van explainable AI (XAI)-methoden, vooral voor machine learning in de wetenschap.
+
+[E-mail mij](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Blog](/blog/) · [Over mij](/about/)
