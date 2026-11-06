@@ -1,19 +1,44 @@
 ---
 layout: home
+title: Patrick Bos
+description: Research software engineer, freelance consultant and developer, and PhD astrophysicist.
+image:
+  path: /assets/og-image.jpg
+  width: 1200
+  height: 630
+  alt: Patrick Bos, research software engineer
+list_title: Writing
 ---
 
-🇺🇸
+<style>
+  .identity-photo {
+    float: right;
+    width: 200px;
+    height: auto;
+    margin: 0 0 1rem 1.5rem;
+    border-radius: 4px;
+  }
+  @media (max-width: 600px) {
+    .identity-photo {
+      float: none;
+      display: block;
+      margin: 0 auto 1rem;
+    }
+  }
+</style>
 
-Hi, I’m Patrick Bos, specialist in research software, working as **Senior Research Software Engineer** at the Kapteyn Astronomical Institute and CIT department of the University of Groningen, and as **freelance (digital) scientist, coder and consultant**.
-I have a PhD in **astrophysics** and more than a decade of experience as a **Research Software Engineer**.
-Welcome to my humble digital abode!
+![Portret van Patrick Bos](/wp-content/uploads/2022/05/portret.jpg){: .identity-photo}
 
-Below you will find my unedited writings on things I know about, things I'm trying to make sense of or things that for some other reason I feel like typing about.
+**Research software engineer** · freelance consultant & developer · PhD astrophysics
+
+I help research groups and companies make scientific code faster, more reliable and easier to maintain, from exoplanet simulations to the ALMA pipeline.
+
+[Email me](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [About](/about/) · [LinkedIn](https://www.linkedin.com/in/egpbos)
 
 🇳🇱
 
-Hallo, ik ben Patrick Bos, specialist in onderzoekssoftware, werkzaam als **Senior Research Software Engineer** bij het Kapteyn Instituut en de CIT afdeling van de Rijksuniversiteit Groningen en daarnaast als **freelance (digitale) wetenschapper, codeur en adviseur**.
-Ik ben gepromoveerd in de **astrofysica** en heb meer dan 10 jaar ervaring als **Research Software Engineer**.
-Welkom in mijn nederig digitaal stulpje!
+**Onderzoekssoftware-ingenieur** · freelance adviseur & ontwikkelaar · PhD astrofysica
 
-Hieronder vindt u mijn ongeredigeerde schrijfsels over dingen waar ik iets van weet, dingen die ik probeer te begrijpen of dingen waar ik om andere willekeurige redenen zin had om over te schrijven.
+Ik help onderzoeksgroepen en bedrijven wetenschappelijke code sneller, betrouwbaarder en makkelijker te onderhouden te maken, van exoplanetsimulaties tot de ALMA-pipeline.
+
+[E-mail mij](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Over mij](/about/) · [LinkedIn](https://www.linkedin.com/in/egpbos)
