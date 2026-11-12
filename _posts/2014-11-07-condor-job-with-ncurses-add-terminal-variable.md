@@ -22,7 +22,7 @@ Running a Condor (7.5.5) job for my c++ program which makes use of the ncurses l
 Error opening terminal: unknown.
 ```
 
-I found a [related question on Stack Overflow](http://stackoverflow.com/questions/16234620/error-opening-terminal-unknown-when-trying-to-run-a-program-inside-eclipse). Adding a <tt>TERM</tt> environment variable turned out to be the solution. To do this in Condor, add a line like this to your Condor script:
+I found a [related question on Stack Overflow](https://stackoverflow.com/questions/16234620/error-opening-terminal-unknown-when-trying-to-run-a-program-inside-eclipse). Adding a <tt>TERM</tt> environment variable turned out to be the solution. To do this in Condor, add a line like this to your Condor script:
 
 ```
 environment    = "TERM=xterm"

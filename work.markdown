@@ -11,7 +11,7 @@ Selected projects and tools I have built or worked on. The [About](/about/) page
 
 - **[PROTEUS](https://github.com/FormingWorlds/PROTEUS)**, a framework for simulating exoplanets. My role includes framework engineering, benchmarking, HPC and software quality. I also help shape development practices in the age of AI assistance.
 - **[ALMA Pipeline](https://almascience.nrao.edu/processing/science-pipeline)**, the data reduction pipeline for the ALMA radio telescope array. Maintenance work focuses on performance, testing and maintainability. The WSU ALMA upgrade will bring in much more data and we need to prepare the Pipeline for that as well. My role also includes project management for the NOVA team.
-- **Explainable AI**, opening black box ML models. We created **[DIANNA](https://dianna.readthedocs.io)**, a tool for comparing explanation methods for machine learning models in research. I also worked on **[Distance Explainer](https://arxiv.org/abs/2505.15516)**, an explanation method for embedding models.
+- **Explainable AI**, opening black box ML models. We created **[DIANNA](https://dianna.readthedocs.io/en/latest/)**, a tool for comparing explanation methods for machine learning models in research. I also worked on **[Distance Explainer](https://arxiv.org/abs/2505.15516)**, an explanation method for embedding models.
 
 ## Past projects
 
@@ -33,6 +33,6 @@ Small webapps I have built recently, mostly with a lot of AI assistance, and dep
 
 My research papers are easiest to browse on [arXiv](https://arxiv.org/search/?searchtype=author&query=Bos%2C%20E%20G%20P), [Google Scholar](https://scholar.google.com/citations?user=3Le2IcUAAAAJ), [dblp](https://dblp.org/pers/hd/b/Bos:E=_G=_Patrick) or [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Bos%2C%20E%20G%20P%22). My study of dark energy and cosmic voids also led to a [New Scientist article](https://web.archive.org/web/20221206144504/https://www.newscientist.com/article/mg21628924-100-dark-energy-hints-hidden-in-cosmic-voids/).
 
-My [dissertation](http://hdl.handle.net/11370/0f7c3d17-9661-4b9f-a27c-dfac2990b844), on cosmic voids as a probe of dark energy, is available from the University of Groningen. [This interview](https://web.archive.org/web/20240302043230/https://www.rug.nl/sciencelinx/nieuws/2016/11/20161129_bos) gives a good summary of it, and the [LaTeX template I used for the thesis](https://github.com/egpbos/rug_phd_thesis_template) is on GitHub.
+My [dissertation](https://research.rug.nl/en/publications/clusters-voids-and-reconstructions-of-the-cosmic-web/), on cosmic voids as a probe of dark energy, is available from the University of Groningen. [This interview](https://web.archive.org/web/20240302043230/https://www.rug.nl/sciencelinx/nieuws/2016/11/20161129_bos) gives a good summary of it, and the [LaTeX template I used for the thesis](https://github.com/egpbos/rug_phd_thesis_template) is on GitHub.
 
 For the full list of projects and roles, see my [CV](/files/CV_Patrick_Bos_20250324.pdf).

@@ -97,7 +97,7 @@ plt.show()
 
 *Update september 2016:*
 
-[De plannen gaan in enigszins gewijzigde vorm in 2017 in werking](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/belasting_betalen_over_uw_vermogen/grondslag_sparen_en_beleggen/berekenen_belasting_over_uw_inkomsten_uit_vermogen_vanaf_2017). Voor mensen met een flink vermogen zijn de aanpassingen nog iets minder gunstig dan de oorspronkelijke plannen; zie de figuur hieronder.
+[De plannen gaan in enigszins gewijzigde vorm in 2017 in werking](https://web.archive.org/web/20170922194120/https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/belasting_betalen_over_uw_vermogen/grondslag_sparen_en_beleggen/berekenen_belasting_over_uw_inkomsten_uit_vermogen_vanaf_2017 "Belastingdienst, archived"). Voor mensen met een flink vermogen zijn de aanpassingen nog iets minder gunstig dan de oorspronkelijke plannen; zie de figuur hieronder.
 
 ![vermogensbelasting2017_rente](/wp-content/uploads/2015/08/vermogensbelasting2017_rente.png)
 
