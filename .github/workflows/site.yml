@@ -9,7 +9,7 @@ permissions:
 
 concurrency:
   group: site-${{ github.workflow }}-${{ github.ref }}
-  cancel: true
+  cancel-in-progress: true
 
 jobs:
   build:
