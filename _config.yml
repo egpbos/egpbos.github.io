@@ -15,6 +15,18 @@ plugins:
 
 remote_theme: jekyll/minima
 
+# Default front matter values. Pages and posts without their own `image`
+# inherit this site-wide Open Graph image (used by jekyll-seo-tag).
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/og-image.jpg
+        width: 1200
+        height: 630
+        alt: "Patrick Bos"
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   nav_pages:
