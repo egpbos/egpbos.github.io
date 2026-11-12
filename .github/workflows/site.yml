@@ -15,20 +15,25 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    container:
+      image: jekyll/jekyll:pages
     env:
       JEKYLL_ENV: production
     steps:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.2"
-          bundler-cache: true
-
       - name: Build site
-        run: bundle exec jekyll build --safe
+        run: |
+          cat > _ci_whitelist.yml <<'EOF'
+          whitelist:
+            - jekyll-feed
+            - jekyll-remote-theme
+            - jekyll-seo-tag
+            - jekyll-sitemap
+            - jekyll-github-metadata
+          EOF
+          jekyll build --safe --config _config.yml,_ci_whitelist.yml
 
       - name: Upload built site
         uses: actions/upload-artifact@v7
