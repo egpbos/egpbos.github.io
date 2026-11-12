@@ -58,12 +58,9 @@ jobs:
           path: _site
 
       - name: Lychee link check
-        # Informational for now: report dead links without failing the workflow.
-        continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
-          # Old personal Astro assets may still be recoverable from backups;
-          # skip them until those links are restored.
-          args: "--verbose --no-progress --exclude \"^mailto:\" --exclude \"http://www\\.astro\\.rug\\.nl/~pbos/\" --accept \"200..=299,403,429,999\" --root-dir ${{ github.workspace }}/_site ${{ github.workspace }}/_site"
+          args: "--verbose --no-progress --exclude \"^mailto:\" --accept \"200..=299,403,429,999\" --root-dir ${{ github.workspace }}/_site ${{ github.workspace }}/_site"
           output: lychee/out.md
           jobSummary: true
+          fail: true

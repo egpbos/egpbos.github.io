@@ -19,4 +19,4 @@ Met de hulp van [Statline](https://opendata.cbs.nl/ "Statline, CBS open data") v
 
 ![studieschuld correlatie](/wp-content/uploads/2012/08/studieschuld-correlatie.png)
 
-Deze twee obligatierentekoersen lijken dan inderdaad aardig met de rente op studieschuld te correleren, zelfs uitstekend in de laatste paar jaren (waarom daarvoor minder is me niet helemaal duidelijk, behalve natuurlijk voor de jaren waarvoor geen oktober metingen bij CBS te krijgen zijn). Zie grafiek en [voor alle data dit excel sheetje](http://www.astro.rug.nl/~pbos/studieschuld-correlatie.xls "Excel sheet met data van studieschuld rentes en de correlerende obligatie rentes").
+Deze twee obligatierentekoersen lijken dan inderdaad aardig met de rente op studieschuld te correleren, zelfs uitstekend in de laatste paar jaren (waarom daarvoor minder is me niet helemaal duidelijk, behalve natuurlijk voor de jaren waarvoor geen oktober metingen bij CBS te krijgen zijn). Zie grafiek en [voor alle data dit excel sheetje](/files/studieschuld-correlatie.xls "Excel sheet met data van studieschuld rentes en de correlerende obligatie rentes").
