@@ -40,7 +40,7 @@ I help research groups and organizations make scientific code faster, more relia
 
 I'm also interested in developing and applying explainable AI (XAI) methods, especially for scientific machine learning.
 
-[Email me](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Blog](/blog/) · [About](/about/)
+[Email me](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Work](/work/) · [Blog](/blog/) · [About](/about/)
 
 🇳🇱
 

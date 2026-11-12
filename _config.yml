@@ -18,6 +18,7 @@ remote_theme: jekyll/minima
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   nav_pages:
+    - work.markdown
     - blog.markdown
     - about.markdown
   skin: classic
