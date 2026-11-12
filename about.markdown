@@ -4,6 +4,25 @@ title: About
 permalink: /about/
 ---
 
+<style>
+  .about-photo {
+    float: right;
+    width: 200px;
+    height: auto;
+    margin: 0 0 1rem 1.5rem;
+    border-radius: 4px;
+  }
+  @media (max-width: 600px) {
+    .about-photo {
+      float: none;
+      display: block;
+      margin: 0 auto 1rem;
+    }
+  }
+</style>
+
+![Portrait of Patrick Bos](/assets/portret-400.jpg){: .about-photo}
+
 🇺🇸
 
 Hi, I’m Patrick Bos, **freelance data scientist, consultant** and **senior research software engineer (RSE)** with a background in **astrophysics**.
@@ -11,8 +30,6 @@ Hi, I’m Patrick Bos, **freelance data scientist, consultant** and **senior res
 I have been working in research software engineering full-time since 2014. I spent 12 years at the Netherlands eScience Center (NLeSC), where I led research software quality efforts as Technology Lead, and I now work at the University of Groningen. As a freelancer with **Bos Data Science**, I take on projects that build or improve research software and apply data science methods.
 
 Before becoming an RSE, I did a PhD in astrophysics and cosmology. More recently, I have been working on explainable AI methods for research.
-
-![Patricks portret](/assets/portret-400.jpg){: width="200"}
 
 For concrete projects, tools and small webapps, see my [Work](/work/) page.
 
