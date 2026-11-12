@@ -50,4 +50,4 @@ Ik help onderzoeksgroepen en organisaties wetenschappelijke code sneller, betrou
 
 Ik heb daarnaast interesse in het ontwikkelen en toepassen van explainable AI (XAI)-methoden, vooral voor machine learning in de wetenschap.
 
-[E-mail mij](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Blog](/blog/) · [Over mij](/about/)
+[E-mail mij](mailto:egpbos@gmail.com) · [CV (PDF)](/files/CV_Patrick_Bos_20250324.pdf) · [Werk](/work/) · [Blog](/blog/) · [Over mij](/about/)
