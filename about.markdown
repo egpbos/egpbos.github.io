@@ -5,24 +5,7 @@ permalink: /about/
 description: "Patrick Bos: freelance data scientist, senior research software engineer and PhD astrophysicist. Background, CV, and where to find publications."
 ---
 
-<style>
-  .about-photo {
-    float: right;
-    width: 200px;
-    height: auto;
-    margin: 0 0 1rem 1.5rem;
-    border-radius: 4px;
-  }
-  @media (max-width: 600px) {
-    .about-photo {
-      float: none;
-      display: block;
-      margin: 0 auto 1rem;
-    }
-  }
-</style>
-
-![Portrait of Patrick Bos](/assets/portret-400.jpg){: .about-photo}
+![Portrait of Patrick Bos](/assets/portret-400.jpg){: .side-photo}
 
 🇺🇸
 

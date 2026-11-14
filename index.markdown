@@ -9,30 +9,7 @@ image:
   alt: Patrick Bos
 ---
 
-<style>
-  .identity-photo {
-    float: right;
-    width: 200px;
-    height: auto;
-    margin: 0 0 1rem 1.5rem;
-    border-radius: 4px;
-  }
-  @media (max-width: 600px) {
-    .identity-photo {
-      float: none;
-      display: block;
-      margin: 0 auto 1rem;
-    }
-  }
-  .post-header {
-    margin-bottom: 20px;
-  }
-  .post-content p {
-    margin-bottom: 10px;
-  }
-</style>
-
-![Portret van Patrick Bos](/assets/portret-400.jpg){: .identity-photo}
+![Portret van Patrick Bos](/assets/portret-400.jpg){: .side-photo}
 
 **Research software engineer** · freelance consultant & developer · PhD astrophysics
 

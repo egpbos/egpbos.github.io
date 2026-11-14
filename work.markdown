@@ -9,16 +9,72 @@ Selected projects and tools I have built or worked on. The [About](/about/) page
 
 ## Current projects
 
-- **[PROTEUS](https://github.com/FormingWorlds/PROTEUS)**, a framework for simulating exoplanets. My role includes framework engineering, benchmarking, HPC and software quality. I also help shape development practices in the age of AI assistance.
-- **[ALMA Pipeline](https://almascience.nrao.edu/processing/science-pipeline)**, the data reduction pipeline for the ALMA radio telescope array. Maintenance work focuses on performance, testing and maintainability. The WSU ALMA upgrade will bring in much more data and we need to prepare the Pipeline for that as well. My role also includes project management for the NOVA team.
-- **Explainable AI**, opening black box ML models. We created **[DIANNA](https://dianna.readthedocs.io/en/latest/)**, a tool for comparing explanation methods for machine learning models in research. I also worked on **[Distance Explainer](https://arxiv.org/abs/2505.15516)**, an explanation method for embedding models.
+<section class="project-grid">
+  <div class="project-card">
+    <img src="/assets/projects/proteus-card-thumb.jpg" alt="Illustration of a rocky planet, half molten magma and half solid crust" width="640" height="360" loading="lazy">
+    <div class="project-body">
+      <h3><a href="https://github.com/FormingWorlds/PROTEUS">PROTEUS</a></h3>
+      <p>Simulates rocky exoplanets from magma-ocean worlds to solid surfaces. I work on framework engineering, benchmarking, HPC and software quality.</p>
+      <div class="credit">Illustration from the <a href="https://proteus-framework.org/">PROTEUS framework website</a>, reused under <a href="https://proteus-framework.org/license/">CC BY 4.0</a>.</div>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="/assets/projects/patrick-alma-card-thumb.jpg" alt="Patrick Bos in front of the ALMA antennas on the Chajnantor Plateau" width="640" height="360" loading="lazy">
+    <div class="project-body">
+      <h3><a href="https://almascience.nrao.edu/processing/science-pipeline">ALMA Pipeline</a></h3>
+      <p>Maintains the ALMA data-reduction pipeline, focusing on performance, testing and readiness for larger data volumes. I also do project management for the NOVA team.</p>
+      <div class="credit">Photo: Patrick Bos at the ALMA site.</div>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="/assets/projects/distance-explainer-card-thumb.jpg" alt="Distance Explainer overview diagram" width="640" height="360" loading="lazy">
+    <div class="project-body">
+      <h3><a href="https://dianna.readthedocs.io/en/latest/">Explainable AI</a></h3>
+      <p>Opens black-box ML models through <a href="https://dianna.readthedocs.io/en/latest/">DIANNA</a> and <a href="https://arxiv.org/abs/2505.15516">Distance Explainer</a>.</p>
+      <div class="credit">Image: Distance Explainer README.</div>
+    </div>
+  </div>
+</section>
 
 ## Past projects
 
-- **Research software quality at NLeSC.** As Technology Lead, I led software quality efforts and oversaw technical choices in many research projects. More details are available on my **[Research Software Directory page](https://research-software-directory.org/persons/cbd546a2-5bdf-423b-8a29-b2d53720792e/projects)**.
-- **Digital humanities data analysis.** I worked on archeology, media, politics, art and language projects using text mining, linked data, point cloud analysis, machine learning and natural language processing.
-- **Particle physics performance work.** I helped speed up comparisons between complex theoretical models and experimental data for CERN/LHC experiments in the **RooFit/[ROOT](https://root.cern)** package.
-- **[BARCODE](https://github.com/egpbos/barcode)**, software for Bayesian reconstruction of cosmic density fields.
+<section class="project-list">
+  <div class="project-row">
+    <div>
+      <h3><a href="https://research-software-directory.org/persons/cbd546a2-5bdf-423b-8a29-b2d53720792e/projects">Research software quality at NLeSC</a></h3>
+      <p>As Technology Lead, I led software quality efforts and oversaw technical choices in many research projects.</p>
+    </div>
+  </div>
+
+  <div class="project-row">
+    <div>
+      <h3>Digital humanities data analysis</h3>
+      <p>Work on archeology, media, politics, art and language projects using text mining, linked data, point clouds, machine learning and NLP.</p>
+    </div>
+  </div>
+
+  <div class="project-row">
+    <img src="/assets/projects/patrick-atlas-card-thumb.jpg" alt="Patrick Bos in front of the ATLAS detector, wearing a red CERN helmet" width="400" height="225" loading="lazy">
+    <div>
+      <h3><a href="https://root.cern">Particle physics performance work</a></h3>
+      <p>Helped speed up comparisons between complex theoretical models and experimental data for CERN/LHC experiments in RooFit/ROOT.</p>
+      <div class="credit">Photo: me in the LHC ATLAS detector cave.</div>
+    </div>
+  </div>
+
+  <div class="project-row">
+    <a href="/rsd-eul__rsd-rss/">
+      <img src="/assets/projects/barcode-rsd-card-thumb.gif" alt="Reconstructed cosmic density field, alternating between real space and redshift space" width="400" height="225" loading="lazy">
+    </a>
+    <div>
+      <h3><a href="https://github.com/egpbos/barcode">BARCODE</a></h3>
+      <p>Bayesian reconstruction of the cosmic density field, with a self-consistent analytical model for redshift space distortions.</p>
+      <div class="credit">Animation from the BARCODE paper (Bos et al. 2019): the Eulerian field alternates with the same field in redshift space. Click for the full field.</div>
+    </div>
+  </div>
+</section>
 
 ## Vibearium
 
