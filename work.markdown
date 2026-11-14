@@ -23,8 +23,8 @@ Selected projects and tools I have built or worked on. The [About](/about/) page
     <img src="/assets/projects/patrick-alma-card-thumb.jpg" alt="Patrick Bos in front of the ALMA antennas on the Chajnantor Plateau" width="640" height="360" loading="lazy">
     <div class="project-body">
       <h3><a href="https://almascience.nrao.edu/processing/science-pipeline">ALMA Pipeline</a></h3>
-      <p>Maintains the ALMA data-reduction pipeline, focusing on performance, testing and readiness for larger data volumes. I also do project management for the NOVA team.</p>
-      <div class="credit">Photo: Patrick Bos at the ALMA site.</div>
+      <p>The ALMA data-reduction pipeline, focusing on performance, modernization and readiness for larger data volumes. I also do project management for the NOVA team.</p>
+      <div class="credit">Photo: me at the ALMA site.</div>
     </div>
   </div>
 
